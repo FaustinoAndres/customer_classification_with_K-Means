@@ -17,3 +17,13 @@
 - En este caso de estudio, te han contratado como consultor de un banco en la ciudad de Nueva York.
 - El banco tiene datos extensos sobre sus clientes durante los últimos 6 meses.
 - El equipo de marketing del banco desea lanzar una campaña de marketing publicitario dirigida dividiendo a sus clientes en al menos 3 grupos distintos.
+
+## Clasificación
+
+- Usando directamente Kmeans con el análisis WCSS correspondiente (K=8) y PCA para la visualización:
+
+![](./images/kmeans.png)
+
+- Usando una reducción de dimemensiones a 10 con AutoEncoders, posteriormente KMeans con el análisis correspondiente (K=4) y PCA para las visualizaciones:
+
+![](./images/kmeans_ae.png)
