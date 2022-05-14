@@ -27,3 +27,5 @@
 - Usando una reducción de dimemensiones a 10 con AutoEncoders, posteriormente KMeans con el análisis correspondiente (K=4) y PCA para las visualizaciones:
 
 ![](./images/kmeans_ae.png)
+
+Puedes ver también el notebook en [DeepNote](https://deepnote.com/workspace/faustino-correa-cc4ec6e7-da5e-4570-b1cf-432989db7d55/project/customerclassificationwithK-Means-411b8b93-d907-447c-b9ee-0c6a1d3e8371/%2Fcustomer_classification_with_K-Means%2Fcustomer_classification_with_K-Means.ipynb)
